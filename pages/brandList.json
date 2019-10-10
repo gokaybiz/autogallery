@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Toyota",
+        "thumb": "toyota.jpg"
+    },
+    {
+        "name": "Audi",
+        "thumb": "audi.jpg"
+    },
+    {
+        "name": "BMW",
+        "thumb": "bmw.jpg"
+    },
+    {
+        "name": "Honda",
+        "thumb": "honda.jpg"
+    },
+    {
+        "name": "Renault",
+        "thumb": "reno.jpg"
+    },
+    {
+        "name": "Opel",
+        "thumb": "opel.jpg"
+    },
+    {
+        "name": "Maserati",
+        "thumb": "maserati.jpg"
+    },
+    {
+        "name": "Hyundai",
+        "thumb": "hyundai.jpg"
+    }
+]

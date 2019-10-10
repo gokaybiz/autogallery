@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Audi TT", 
+        "model" : "1.8 T Quattro",
+        "year" : "2000",
+        "fuel": "Benzin & LPG"
+    },
+    {
+        "name" : "Audi A6", 
+        "model" : "A6 Sedan 2.0 TDI",
+        "year" : "2012",
+        "fuel": "Dizel"
+    },
+    {
+        "name" : "Audi RS", 
+        "model" : "RS 6",
+        "year" : "2014",
+        "fuel": "Benzin"
+    },
+    {
+        "name" : "Audi A4", 
+        "model" : "A4 Sedan 2.0 TDI",
+        "year" : "2014",
+        "fuel": "Dizel"
+    }
+]

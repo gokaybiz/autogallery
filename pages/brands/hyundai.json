@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Hyundai i20",
+        "model": "1.4 CRDi Style",
+        "year": "2018",
+        "fuel": "Dizel"
+    },
+    {
+        "name": "Hyundai Getz",
+        "model": "1.3 GLS",
+        "year": "2004",
+        "fuel": "Benzin"
+    },
+    {
+        "name": "Hyundai Excel",
+        "model": "1.5 GLS",
+        "year": "1994",
+        "fuel": "Benzin & LPG"
+    },
+    {
+        "name": "Hyundai Ioniq",
+        "model": "1.6 GDI Elite Plus",
+        "year": "2017",
+        "fuel": "Hybrid"
+    }
+]

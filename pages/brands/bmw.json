@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "BMW i Serisi", 
+        "model" : "i8 Premium Techno", 
+        "year" : "2015",
+        "fuel": "Hybrid"
+    }, 
+    {
+        "name" : "BMW 6 Serisi", 
+        "model" : "640xd Gran Coupe", 
+        "year" : "2013",
+        "fuel": "Dizel"
+    }, 
+    {
+        "name" : "BMW Z Serisi", 
+        "model" : "Z4 2.8i sDrive M Sport", 
+        "year" : "2012",
+        "fuel": "Benzinli"
+    }
+]

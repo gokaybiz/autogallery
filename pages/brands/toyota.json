@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Toyota Corolla", 
+        "model" : "1.6 GLi",
+        "year" : "1996",
+        "fuel": "Benzin & LPG"
+    },
+    {
+        "name" : "Toyota Yaris", 
+        "model" : "1.0 Life",
+        "year" : "2016",
+        "fuel": "Benzin"
+    },
+    {
+        "name" : "Toyota Avensis", 
+        "model" : "1.6 Elegant Extra",
+        "year" : "2011",
+        "fuel": "Benzin & LPG"
+    },
+    {
+        "name" : "Toyota Previa", 
+        "model" : "2.4",
+        "year" : "1997",
+        "fuel": "Benzin"
+    }
+]
